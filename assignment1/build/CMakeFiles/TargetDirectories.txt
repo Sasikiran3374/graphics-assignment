@@ -1,0 +1,3 @@
+/Users/sasi/Desktop/GRAPHICS/assignment1/build/CMakeFiles/assignment1.dir
+/Users/sasi/Desktop/GRAPHICS/assignment1/build/CMakeFiles/edit_cache.dir
+/Users/sasi/Desktop/GRAPHICS/assignment1/build/CMakeFiles/rebuild_cache.dir
